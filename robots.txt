@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohamedarman.dev/sitemap.xml
+
+# Mohamed Arman — AI/ML Software Engineer Portfolio
+# Optimized for search engines and social media crawlers
